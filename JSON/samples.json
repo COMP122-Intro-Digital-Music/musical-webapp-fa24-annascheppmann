@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "piano",
+    "file": "samples/piano.wav",
+    "bpm": "105",
+    "loop": "32m"
+  },
+  {
+    "name": "guitar",
+    "file": "samples/worldpoem.wav",
+    "bpm": "105",
+    "loop": "4m"
+  },
+  {
+    "name": "guitar",
+    "file": "samples/mellowguitar.wav",
+    "bpm": "105",
+    "loop": "32m"
+  }
+]
